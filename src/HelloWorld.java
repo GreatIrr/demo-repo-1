@@ -15,5 +15,7 @@ public class HelloWorld {
         System.out.println("another try of main text ");
         System.out.println(" and another main text");
         System.out.println(" and another main text and new commit");
+        System.out.println(" and another one");
+        System.out.println("demo feature");
     }
 }
