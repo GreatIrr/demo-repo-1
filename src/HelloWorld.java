@@ -13,5 +13,6 @@ public class HelloWorld {
 
     private static void someMethod2() {
         System.out.println("another try of main text ");
+        System.out.println(" and another main text");
     }
 }
