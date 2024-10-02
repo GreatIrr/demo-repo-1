@@ -12,6 +12,6 @@ public class HelloWorld {
     }
 
     private static void someMethod2() {
-        System.out.printf("another try of ");
+        System.out.printf("demo feature");
     }
 }
